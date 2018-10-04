@@ -46,7 +46,7 @@ Details specific to the October 4/5 2018 offering of the "What They Forgot to Te
 
 <https://gitter.im/what-they-forgot/seattle-2018> is our chat room (ignore if you are overstimulated already)
 
-Written versions content are under open development here:
+Written versions of content are under open development here:
 
   * [What They Forgot to Teach You About R](https://whattheyforgot.org) (bookdown site)
   * [Happy Git and GitHub for the useR](http://happygitwithr.com) (bookdown site)

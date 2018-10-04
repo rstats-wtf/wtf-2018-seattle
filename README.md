@@ -33,8 +33,8 @@ Details specific to the October 4/5 2018 offering of the "What They Forgot to Te
 
 | Unit          | What | Who |
 |---------------|------|-----|
-| Day 1, 1 | Admin & greetings<br>Project-oriented workflow | Jenny
-| Day 1, 2 | File paths and names| Jenny |
+| Day 1, 1 | Admin & greetings<br>Project-oriented workflow<br>[slides](day1_slides1_projects-and-paths.pdf) | Jenny
+| Day 1, 2 | File paths and names<br>API for an analysis | Jenny |
 | Day 1, 3 | Git/GitHub 1 of 3 | Jenny |
 | Day 1, 4 | Git/GitHub 2 of 3 | Jim |
 | Day 2, 1 | R Startup <br>Manage a package library | Jim |

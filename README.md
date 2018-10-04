@@ -1,10 +1,8 @@
 # whattheyforgot-seattle
 
-Details specific to the October 4/5 2018 offering of the "What They Forgot to Teach You About R" workshop
+Details specific to the October 4/5 2018 offering of the "What They Forgot to Teach You About R" workshop at [The Westin Seattle](https://goo.gl/maps/3KSpPzZjWR92) (links to Google maps). Register [here](https://www.rstudio.com/workshops/what-they-forgot-to-teach-you-about-r/).
 
-At [The Westin Seattle](https://goo.gl/maps/3KSpPzZjWR92) (links to Google maps).
-
-Register [here](https://www.rstudio.com/workshops/what-they-forgot-to-teach-you-about-r/).
+[rstd.io/wtf-seattle](https://rstd.io/wtf-seattle) = shortlink that points HERE
 
 ## Pre-work
 
@@ -35,11 +33,23 @@ Register [here](https://www.rstudio.com/workshops/what-they-forgot-to-teach-you-
 
 | Unit          | What | Who |
 |---------------|------|-----|
-| Day 1, a.m. 1 | Admin & intros<br>... | Jenny
-| Day 1, a.m. 2 | ...| Jenny |
-| Day 1, p.m. 1 | Git/GitHub 1 of 3 | Jenny |
-| Day 1, p.m. 2 | Git/GitHub 2 of 3 | Jim |
-| Day 2, a.m. 1 | ... | Jim |
-| Day 2, a.m. 2 | ... | Jim    |
-| Day 2, p.m. 1 | Git/GitHub 3 of 3 workflows | Jenny |
-| Day 2, p.m. 2 |Iteration with purrr<br>Conconclusion | Jenny |
+| Day 1, 1 | Admin & greetings<br>Project-oriented workflow | Jenny
+| Day 1, 2 | File paths and names| Jenny |
+| Day 1, 3 | Git/GitHub 1 of 3 | Jenny |
+| Day 1, 4 | Git/GitHub 2 of 3 | Jim |
+| Day 2, 1 | R Startup <br>Manage a package library | Jim |
+| Day 2, 2 | Debugging | Jim |
+| Day 2, 3 | Git/GitHub 3 of 3 workflows | Jenny |
+| Day 2, 4 | Iteration with purrr<br>Conclusion | Jenny |
+
+## Resources
+
+<https://gitter.im/what-they-forgot/seattle-2018> is our chat room (ignore if you are overstimulated already)
+
+Written versions content are under open development here:
+
+  * [What They Forgot to Teach You About R](https://whattheyforgot.org) (bookdown site)
+  * [Happy Git and GitHub for the useR](http://happygitwithr.com) (bookdown site)
+  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
+  
+

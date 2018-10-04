@@ -33,13 +33,13 @@ Details specific to the October 4/5 2018 offering of the "What They Forgot to Te
 
 | Unit          | What | Who |
 |---------------|------|-----|
-| Day 1, 1 | Admin & greetings<br>Project-oriented workflow<br>[slides](day1_slides1_projects-and-paths.pdf) | Jenny
-| Day 1, 2 | File paths and names<br>API for an analysis | Jenny |
+| Day 1, 1 | Admin & greetings<br>Project-oriented workflow<br>[slides](day1_slides1_projects-and-paths.pdf)<br>`usethis::use_course("rstd.io/wtf-1")` | Jenny
+| Day 1, 2 | File paths and names<br>API for an analysis<br>`usethis::use_course("rstd.io/wtf-2")` | Jenny |
 | Day 1, 3 | Git/GitHub 1 of 3 | Jenny |
 | Day 1, 4 | Git/GitHub 2 of 3 | Jim |
 | Day 2, 1 | R Startup <br>Manage a package library | Jim |
 | Day 2, 2 | Debugging | Jim |
-| Day 2, 3 | Git/GitHub 3 of 3 workflows | Jenny |
+| Day 2, 3 | Git/GitHub 3 of 3<br>workflows | Jenny |
 | Day 2, 4 | Iteration with purrr<br>Conclusion | Jenny |
 
 ## Resources

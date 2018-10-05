@@ -40,7 +40,7 @@ Details specific to the October 4/5 2018 offering of the "What They Forgot to Te
 | Day 2, 1 | R Startup <br>Manage a package library | Jim |
 | Day 2, 2 | Debugging | Jim |
 | Day 2, 3 | Git/GitHub 3 of 3<br>workflows | Jenny |
-| Day 2, 4 | Iteration with purrr<br>Conclusion | Jenny |
+| Day 2, 4 | Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)<br>Conclusion | Jenny |
 
 ## Resources
 

@@ -39,7 +39,7 @@ Details specific to the October 4/5 2018 offering of the "What They Forgot to Te
 | Day 1, 4 | Git/GitHub 2 of 3<br>[slides](day1_slides4_git-branching-and-remotes.pdf) | Jim |
 | Day 2, 1 | R Startup <br>Manage a package library<br>[slides](day2_slides1_R-startup-maintaining-libraries.pdf)<br>[`.Renviron` activity](https://whattheyforgot.org/r-startup.html#renviron)<br>[`.Rprofile` activity](https://whattheyforgot.org/r-startup.html#rprofile) | Jim |
 | Day 2, 2 | Debugging<br>[slides](day2_slides2_Debugging-Code-Search.pdf)| Jim |
-| Day 2, 3 | Git/GitHub 3 of 3<br>workflows | Jenny |
+| Day 2, 3 | Git/GitHub 3 of 3<br>workflows<br>[slides](day2_slides3_git-dilemmas-and-workflows.pdf) | Jenny |
 | Day 2, 4 | Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)<br>Conclusion | Jenny |
 
 ## Resources

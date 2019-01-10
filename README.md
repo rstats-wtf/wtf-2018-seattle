@@ -1,4 +1,4 @@
-# whattheyforgot-seattle
+# wtf-2018-seattle
 
 Details specific to the October 4/5 2018 offering of the "What They Forgot to Teach You About R" workshop at [The Westin Seattle](https://goo.gl/maps/3KSpPzZjWR92) (links to Google maps). Register [here](https://www.rstudio.com/workshops/what-they-forgot-to-teach-you-about-r/).
 
